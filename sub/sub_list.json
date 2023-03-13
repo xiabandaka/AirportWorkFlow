@@ -9,9 +9,9 @@
   },
   {
     "id": 1,
-    "remarks": "chfchf0306/clash",
-    "site": "https://github.com/chfchf0306/clash",
-    "url": "https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18",
+    "remarks": "proxy.yugogo.xyz",
+    "site": "https://proxy.yugogo.xyz/clash/proxies?nc=CN",
+    "url": "https://proxy.yugogo.xyz/clash/proxies?nc=CN",
     "update_method": "auto",
     "enabled": true
   },
